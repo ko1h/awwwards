@@ -1,0 +1,37 @@
+body {
+  margin: 0; }
+
+.header {
+  display: flex;
+  flex-direction: row;
+  justify-content: space-between;
+  width: 100%;
+  height: 40px;
+  position: relative; }
+
+hr {
+  width: 30px;
+  background-color: black;
+  border: 0 none;
+  color: #eee;
+  height: 4px;
+  font: "Noto Sans", sans-serif; }
+
+#glass img {
+  height: 40px;
+  width: 40px; }
+
+#submit {
+  background-color: #49c5b6;
+  color: white;
+  height: 100%;
+  width: 190px; }
+
+.logo h1 {
+  margin-top: 5px; }
+
+#log {
+  border-radius: none;
+  font-weight: bold; }
+
+/*# sourceMappingURL=output.css.map */
