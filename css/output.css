@@ -78,6 +78,7 @@ body {
   justify-content: space-around; }
   .cardHolder .card {
     background-color: #fcfcfc;
-    margin-bottom: 30px; }
+    margin-bottom: 30px;
+    font-size: 12px; }
 
 /*# sourceMappingURL=output.css.map */

@@ -20,6 +20,7 @@ $cardBackGround: #fcfcfc;
 @mixin cards {
   background-color: $cardBackGround;
   margin-bottom: 30px;
+  font-size: 12px;
 }
 
 body {
